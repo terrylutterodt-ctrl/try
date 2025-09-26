@@ -1,0 +1,1 @@
+var json_VENUE_4 = {"type":"FeatureCollection","name":"VENUE_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"DIRECTION":"https://maps.app.goo.gl/cvQ3d8wMioXoSFGcA"},"geometry":{"type":"Point","coordinates":[-0.196788310717176,5.570556343777175]}}]}
